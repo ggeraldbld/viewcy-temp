@@ -1,8 +1,8 @@
 {
   "versions": {
-    "ios": 20504,
-    "android": 20501,
-    "type": "FORCE",
+    "ios": 20601,
+    "android": 20601,
+    "type": "NOTIFY",
     "displayMessage": null
   }
 }
